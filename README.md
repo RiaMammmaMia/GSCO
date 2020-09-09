@@ -1,0 +1,2 @@
+# GSCO
+THIS IS THE GSCO
